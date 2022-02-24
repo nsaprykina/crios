@@ -6,6 +6,8 @@
 
 GitHub Page: https://nsaprykina.github.io/crios/;
 
+Google Диск: https://drive.google.com/drive/folders/1ezmYyymCqWaGVytbv2rcefrNgycxQtfF?usp=sharing(расположение макета).
+
 Описание: Данный проект сделан за сутки.
 
 Проект был psd формата, т.е. вся информация полученна была с помощью photochop.
